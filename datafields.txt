@@ -1,0 +1,16 @@
+Top News  http://rss.cnn.com/rss/edition.rss    http://feeds.bbci.co.uk/news/rss.xml  
+World    http://rss.cnn.com/rss/edition_world.rss  http://feeds.bbci.co.uk/news/world/rss.xml  
+Business    http://feeds.bbci.co.uk/news/business/rss.xml
+Sports   http://rss.cnn.com/rss/edition_sport.rss   http://feeds.abcnews.com/abcnews/sportsheadlines
+Science   http://rss.cnn.com/rss/edition_space.rss  http://feeds.bbci.co.uk/news/science_and_environment/rss.xml  
+Technology  http://rss.cnn.com/rss/edition_technology.rss  http://feeds.abcnews.com/abcnews/technologyheadlines
+Entertainment and Arts   http://rss.cnn.com/rss/edition_entertainment.rss     http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+Education   http://feeds.bbci.co.uk/news/education/rss.xml   
+Money     http://rss.cnn.com/rss/money_news_international.rss   http://feeds.abcnews.com/abcnews/moneyheadlines  
+Travel    http://travel.cnn.com/rss.xml   http://feeds.abcnews.com/abcnews/travelheadlines
+Health   http://feeds.bbci.co.uk/news/health/rss.xml   http://feeds.abcnews.com/abcnews/healthheadlines
+Politics   http://feeds.bbci.co.uk/news/politics/rss.xml   http://feeds.abcnews.com/abcnews/politicsheadlines 
+Magazine   http://feeds.bbci.co.uk/news/magazine/rss.xml
+Most Read Stories   http://feeds.abcnews.com/abcnews/mostreadstories
+This Week Headlines   http://feeds.abcnews.com/abcnews/thisweekheadlines
+Primetime Headlines    http://feeds.abcnews.com/abcnews/primetimeheadlines

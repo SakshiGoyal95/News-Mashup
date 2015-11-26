@@ -1,0 +1,12 @@
+
+create table news(Field varchar(30) not null,Link varchar(100) not null,primary key(Field,Link))
+
+
+db2 => create table Newsfeed(Field varchar(30) not null,Title varchar(300) not n
+ull,Link varchar(300) not null,Description varchar(300) not null,primary key(Lin
+k),unique(Title))
+
+db2 => create table images(Field varchar(30) not null,Image blob(5M) not null,Fi
+lepath varchar(100) not null,primary key(Field))
+
+
